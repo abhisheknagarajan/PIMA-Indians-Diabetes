@@ -44,4 +44,4 @@ Diabetes is a disease that occurs when your blood glucose, also called blood sug
 
 9) Stacking
 
-# Python Notebook : <a href='https://github.com/abhisheknagarajan/Netflix-Clustering-Problem/blob/main/NETFLIX%20Clustering%20%26%20Recommendation-Copy1.ipynb'>NETFLIX_CLUSTERING_AND_RECOMMENDATION.ipynb</a></h4>
+# Python Notebook : <a href='https://github.com/abhisheknagarajan/PIMA-Indians-Diabetes/blob/main/PIMA%20Indians%20Diabetes.ipynb'>PIMA-INDIANS-DIABETES.ipynb</a></h4>
